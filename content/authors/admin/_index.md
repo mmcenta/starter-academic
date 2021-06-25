@@ -1,6 +1,6 @@
 ---
 role: Research Intern
-avatar_filename: profile.png
+avatar_filename: avatar.png
 bio: I am working on symbolic reinforcement learning.
 interests:
   - Machine Learning
