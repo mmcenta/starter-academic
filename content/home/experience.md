@@ -26,22 +26,22 @@ experience:
     company: 'Inria'
     company_url: ''
     location: 'Lille, France'
-    date_start: '05/2021'
+    date_start: '2021-05-01'
     date_end: ''
         
   - title: 'Software Engineer Intern'
     company: 'Microsoft'
     company_url: ''
     location: 'Paris, France'
-    date_start: '05/2020'
-    date_end: '09/2020'
+    date_start: '2020-05-01'
+    date_end: '2020-09-01'
     
   - title: 'Software Engineer Intern'
     company: 'VTEX'
     company_url: ''
     location: 'Rio de Janeiro, Brazil'
-    date_start: '05/2020'
-    date_end: '07/2020'
+    date_start: '2019-05-01'
+    date_end: '2019-07-01'
 
 design:
   columns: '2'
