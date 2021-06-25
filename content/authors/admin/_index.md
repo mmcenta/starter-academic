@@ -6,8 +6,8 @@ interests:
   - Machine Learning
   - Reinforcement Learning
 social:
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
