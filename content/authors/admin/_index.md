@@ -6,9 +6,6 @@ interests:
   - Machine Learning
   - Reinforcement Learning
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/matheuscenta
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/
@@ -18,6 +15,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mmcenta
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/matheuscenta
+  - display:
+      header: false
+    link: /#contact
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: SCOOL @ Inria
     url: https://team.inria.fr/scool/
