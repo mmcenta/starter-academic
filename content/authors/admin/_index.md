@@ -43,4 +43,4 @@ I am a Research Intern in the [SCOOL](https://team.inria.fr/scool/) team, under 
 
 This is a test site - if you have seen this, feel special.
 
-{{< icon name="download" pack="fas" >}} Enjoy {{< staticref "uploads/demo_resume.pdf" "newtab" >}}this useless link.{{< /staticref >}} if you want.
+{{< icon name="download" pack="fas" >}} Enjoy {{< staticref "uploads/demo_resume.pdf" "newtab" >}}this useless link.{{< /staticref >}}
