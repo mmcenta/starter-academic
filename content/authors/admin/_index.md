@@ -1,8 +1,7 @@
 ---
 role: Research Intern
 avatar_filename: profile.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I am working on symbolic reinforcement learning approaches.
 interests:
   - Machine Learning
   - Reinforcement Learning
