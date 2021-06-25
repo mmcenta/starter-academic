@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mmcenta
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SCOOL @ Inria
+    url: https://team.inria.fr/scool/
 education:
   courses:
     - course: M.S. in Machine Learning (M2A)
@@ -38,9 +38,8 @@ highlight_name: false
 title: Matheus M. Centa
 email: ""
 ---
+I am a Research Intern in the [SCOOL](https://team.inria.fr/scool/) team, under the supervision of [Philippe Preux](https://philippe-preux.github.io/).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is a test site - if you have seen this, feel special.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download this demo {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} if you want.
